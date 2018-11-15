@@ -1,4 +1,4 @@
-local logs = "https://discordapp.com/api/webhooks/505830290758041610/c3rA85ifJeq26dzoqHRMHn0kouD3smRr-q8nQ_8bez-DawIHf1eUFxsq_GmBZYNhM2XX"
+local logs = "Change this to your webhook"
 local communityname = "Big Yoda"
 local communtiylogo = "https://i.imgur.com/e8VsdLL.jpg" --Must end with .png
 
