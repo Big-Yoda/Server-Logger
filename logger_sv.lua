@@ -1,6 +1,6 @@
 local logs = "Change this to your webhook"
 local communityname = "Big Yoda"
-local communtiylogo = "https://i.imgur.com/e8VsdLL.jpg" --Must end with .png
+local communtiylogo = "https://i.imgur.com/e8VsdLL.jpg" --Must end with .png or .jpg
 
 AddEventHandler('playerConnecting', function()
 local name = GetPlayerName(source)
